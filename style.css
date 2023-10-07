@@ -93,6 +93,9 @@ main {
   text-align: center;
   line-height: 0.6;
 }
+.blog-box {
+  padding-top: 50px;
+}
 
 .blog-item {
   padding-bottom: 20px;
@@ -102,8 +105,16 @@ main {
   justify-content: flex-start;
 }
 
-.blog-img {
+.blog-image {
   height: 180px;
+}
+
+.blog-text {
+  padding: 25px 0 0 30px;
+}
+
+.blog-text-heading {
+  padding-bottom: 15px;
 }
 
 .blog-date {
