@@ -26,6 +26,10 @@ a {
   /* background-color: pink; */
 /* } */
 
+header, nav, h2, .main-visual, footer {
+  font-family: Chalkduster, "Boadley Hand", Courier, "Segoe Print", sans-serif;
+}
+
 header {
   width: 90%;
   padding:15px 0;
